@@ -1,0 +1,6 @@
+[submodule "socket"]
+	path = socket
+	url = https://github.com/embedCreativity/socket.git
+[submodule "crypto"]
+	path = crypto
+	url = https://github.com/embedCreativity/crypto.git
